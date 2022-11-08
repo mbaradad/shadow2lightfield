@@ -45,3 +45,12 @@ the parameter --K_components allows reducing the solution size, and thus the mem
 To compute ffts/and iffts, we rely on tensorflow, which allows easy interoperability between GPU and CPU. 
 To replicate the experiments without downloading the cache GPU usage is recommended, as it speed ups the process by a 10x factor.
 
+# Citation
+```
+@inproceedings{baradad2021learning,
+  title={Learning to See by Looking at Noise},
+  author={Manel Baradad and Jonas Wulff and Tongzhou Wang and Phillip Isola and Antonio Torralba},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2021}
+}
+```
