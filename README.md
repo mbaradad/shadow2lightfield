@@ -47,11 +47,12 @@ To replicate the experiments without downloading the cache GPU usage is recommen
 
 # Citation
 ```
-@InProceedings{Baradad_2018_CVPR,
-   author = {Baradad, Manel and Ye, Vickie and Yedidia, Adam B. and Durand, Frédo and Freeman, William T. and Wornell, Gregory W. and Torralba, Antonio},
-   title = {Inferring Light Fields From Shadows},
-   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-   month = {June},
-   year = {2018}
+@misc{baradad2023background,
+      title={Background Prompting for Improved Object Depth}, 
+      author={Manel Baradad and Yuanzhen Li and Forrester Cole and Michael Rubinstein and Antonio Torralba and William T. Freeman and Varun Jampani},
+      year={2023},
+      eprint={2306.05428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
